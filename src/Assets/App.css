@@ -1,0 +1,9 @@
+/* Movies fonts styles*/
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#root {
+    color: hsl(246deg 5% 28%);
+}
